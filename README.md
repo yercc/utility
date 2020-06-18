@@ -1,4 +1,5 @@
 # utility
+<strong style="background: linear-gradient(to right ,#3299d2,#efbdb5); color: #fff; font-weight: 400; padding: 0 4px; display: inline-block; border-radius: 4px; margin: 0 2px; letter-spacing: 1px;">关键点</strong>
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
